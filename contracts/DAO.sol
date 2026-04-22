@@ -11,6 +11,7 @@ contract DAO {
         uint256 deadline;
         uint256 yesVotes;
         uint256 noVotes;
+        uint256 snapshotBlock;
         bool executed;
         bool cancelled;
     }
@@ -43,6 +44,7 @@ contract DAO {
             deadline: block.timestamp + _votingPeriod,
             yesVotes: 0,
             noVotes: 0,
+            snapshotBlock: block.number,
             executed: false,
             cancelled: false
         });
@@ -53,7 +55,7 @@ contract DAO {
         require(proposal.deadline != 0, "Proposal does not exist");
         require(block.timestamp < proposal.deadline, "Voting ended");
 
-        uint256 voterWeight = token.balanceOf(msg.sender);
+        uint256 voterWeight = token.getPastVotes(msg.sender, proposal.snapshotBlock);
         require(voterWeight > 0, "Not a token holder");
 
         require(!hasVoted[proposalId][msg.sender], "Already voted");
