@@ -4,7 +4,10 @@
   "description": "A decentralized governance system implementing ERC-20 token-weighted voting, quorum enforcement, and secure on-chain proposal execution.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "hardhat test",
+    "test:gas": "REPORT_GAS=true hardhat test",
+    "compile": "hardhat compile",
+    "deploy:local": "hardhat run scripts/deploy.ts --network localhost"
   },
   "repository": {
     "type": "git",
