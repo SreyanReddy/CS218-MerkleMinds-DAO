@@ -13,12 +13,13 @@ quorum parameter, and proposer-only cancellation during the pending phase.
 
 | Name | Roll Number |
 | ---- | ----------- |
-| _Member 1_ | _TODO_ |
-| _Member 2_ | _TODO_ |
-| _Member 3_ | _TODO_ |
-| _Member 4_ | _TODO_ |
+| _Sreyan Reddy_ | _240051018_ |
+| _Vikram Varma_ | _240001078_ |
+| _Madhavi_ | _ _ |
+| _Manas Joel_ | _TODO_ |
+| _Rishik_ | _ _ |
+| _Hemanth Royal_ | _ _ |
 
-> Replace these rows with real team member names and roll numbers before submission.
 
 ## Repository Layout
 
