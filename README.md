@@ -15,9 +15,9 @@ quorum parameter, and proposer-only cancellation during the pending phase.
 | ---- | ----------- |
 | _Sreyan Reddy_ | _240051018_ |
 | _Vikram Varma_ | _240001078_ |
-| _Madhavi_ | _ _ |
-| _Manas Joel_ | _TODO_ |
-| _Rishik_ | _ _ |
+| _Madhavi_ | _240041021_ |
+| _Manas Joel_ | _240004025_ |
+| _Rishik_ | _240003027_ |
 | _Hemanth Royal_ | _240041010_ |
 
 
