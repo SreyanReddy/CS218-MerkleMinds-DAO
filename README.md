@@ -7,18 +7,16 @@ snapshot-based vote weights, 30 % quorum enforcement, time-windowed voting,
 on-chain proposal execution against a Treasury contract, admin-controlled
 quorum parameter, and proposer-only cancellation during the pending phase.
 
-> **To run the project step-by-step, open [`INSTRUCTIONS.md`](./INSTRUCTIONS.md).**
-
 ## Team — MerkleMinds
 
 | Name | Roll Number |
 | ---- | ----------- |
-| _Member 1_ | _TODO_ |
-| _Member 2_ | _TODO_ |
-| _Member 3_ | _TODO_ |
-| _Member 4_ | _TODO_ |
-
-> Replace these rows with real team member names and roll numbers before submission.
+| _Sreyan Reddy Regatte_ | _240051018_ |
+| _Velpula Vikram Verma_ | _240001078_ |
+| _Kattammagiri Manas Joel_ | _240004025_ |
+| _Hemanth Royal_ | _240041010_ |
+| _Dodda Rishik_ | _240003027_ |
+| _Katravath Madhavi_ | _240041021_ |
 
 ## Repository Layout
 
