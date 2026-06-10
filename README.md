@@ -14,8 +14,8 @@ quorum parameter, and proposer-only cancellation during the pending phase.
 | _Sreyan Reddy Regatte_ | _240051018_ |
 | _Velpula Vikram Verma_ | _240001078_ |
 | _Kattammagiri Manas Joel_ | _240004025_ |
-| _Hemanth Royal_ | _240041010_ |
 | _Dodda Rishik_ | _240003027_ |
+| _Hemanth Royal_ | _240041010_ |
 | _Katravath Madhavi_ | _240041021_ |
 
 ## Repository Layout
