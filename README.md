@@ -73,7 +73,7 @@ Status enum: `Pending | Active | Defeated | Succeeded | Executed | Cancelled`.
 - Checks-effects-interactions: `executed = true` is set before the external call.
 - `executeProposal` reverts if the downstream call reverts.
 
-## Gas Report (abbreviated)
+## Gas Report(abbreviated)
 
 ```
 Solc 0.8.28, optimizer runs=200, viaIR=true
